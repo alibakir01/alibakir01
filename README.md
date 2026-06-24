@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/alibakir01">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Muhammed+Ali+Bak%C4%B1r;Computer+Engineering+Student;Machine+Learning+%26+AI+Enthusiast;NLP+%7C+Computer+Vision+%7C+Cybersecurity" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=1800&pause=600&color=58A6FF&background=00000000&center=true&vCenter=true&multiline=false&width=900&height=80&lines=Hi%2C+I'm+Muhammed+Ali+Bak%C4%B1r+%F0%9F%91%8B;Machine+Learning+%26+AI+Engineer+in+the+making;Turning+research+into+real+products;NLP+%E2%80%A2+Computer+Vision+%E2%80%A2+Cybersecurity" alt="Typing SVG" />
   </a>
 </h1>
 
